@@ -4,14 +4,12 @@ Onebox is an email client interface designed to provide a modern and intuitive e
 
 ## Tech Stack
 
-- **Next.js**
+- **React.js**
 - **TypeScript**
-- **Shadcn**
 - **Tailwind CSS**
 - **Vercel**
-- **PNPM**
-- **Redux Toolkit**
-- **Remixicon**
+- **NPM**
+
 
 ## Features
 
