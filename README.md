@@ -15,11 +15,11 @@ Onebox is an email client interface designed to provide a modern and intuitive e
 
 ## Live Demo
 
-Check out the live application at [onebox.sourin.in](https://onebox.sourin.in).
+Check out the live application at (https://reachinbox-assignment-three.vercel.app/).
 
 ## GitHub Repository
 
-The source code is available at [GitHub - sourinsarkar/onebox](https://github.com/sourinsarkar/onebox).
+The source code is available at [GitHub - priyanshusr09/onebox](https://github.com/impriyanshu9/Reachinbox-Assignment).
 
 ## Setup and Installation
 
@@ -30,7 +30,7 @@ To get started with the project on your local machine, follow these steps:
    Open your terminal and clone the repository using:
 
    ```bash
-   git clone https://github.com/sourinsarkar/onebox.git
+   https://github.com/impriyanshu9/Reachinbox-Assignment.git
    
 2. **Navigate to the Project Directory**
 
@@ -43,10 +43,10 @@ To get started with the project on your local machine, follow these steps:
    Be in your terminal:
 
    ```bash
-   cd pnpm install
+   npm install
    
 4. **Run the project locally**
 
    ```bash
-   cd pnpm run dev
+   npm run dev/npm start
    
