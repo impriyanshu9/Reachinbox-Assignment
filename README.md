@@ -25,7 +25,7 @@ Check out the live application at (https://reachinbox-assignment-three.vercel.ap
 
 ## GitHub Repository
 
-The source code is available at [GitHub - priyanshusr09/onebox](https://github.com/impriyanshu9/Reachinbox-Assignment).
+The source code is available at [GitHub - impriyanshu09/onebox](https://github.com/impriyanshu9/Reachinbox-Assignment).
 
 ## Setup and Installation
 
