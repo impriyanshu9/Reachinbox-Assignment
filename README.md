@@ -13,6 +13,14 @@ Onebox is an email client interface designed to provide a modern and intuitive e
 - **Redux Toolkit**
 - **Remixicon**
 
+## Features
+
+- **Dark Mode/Light Mode Toggle**: Switch between dark and light themes.
+- **Email Details View**: View details of selected emails.
+- **Reply to Emails**: Reply to emails with a custom text editor.
+- **Delete Emails**: Delete emails with a confirmation modal.
+- **Sidebar Navigation**: Navigate through different sections via the sidebar.
+
 ## Live Demo
 
 Check out the live application at (https://reachinbox-assignment-three.vercel.app/).
@@ -49,4 +57,12 @@ To get started with the project on your local machine, follow these steps:
 
    ```bash
    npm run dev/npm start
+   ```
+   
+5.App will run on
+
+```bash
+    http:localhost:3000
+```
+
    
